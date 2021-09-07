@@ -7,7 +7,7 @@ Created on Thu Sep  2 20:28:16 2021
 #el as es una abreviación 
 import pandas as pd
 #lo de arriba los titulos
-data = pd.read_excel('Info (1).xlsx')# lo de la izquierda los indices 
+data = pd.read_excel('Archivos Excel\Info (1).xlsx')# lo de la izquierda los indices 
 print(data['Fondo'])
 
 data.replace(1000,40, inplace=True)#Una forma 
