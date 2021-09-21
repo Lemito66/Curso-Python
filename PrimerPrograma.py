@@ -45,7 +45,8 @@ print("Hoy es: " + str(day)+ " de " + month + " " + str(year))
 
 print('Hoy es {} de {} del {}' .format(day,month,year))#Sin convertir y solo con strings
 
-print('Este es el resultado de: \n {} y {}'.format(x[-1][-2],x[-1]))
+print('Este es el resultado de: \n {} y {}'.C:\Users\lemit\Documents\Curso Python\Maximizar.py
+C:\Users\lemit\Documents\Curso Python\Example.py))
 
 #loops 
 y=[1,2,3,4,5]

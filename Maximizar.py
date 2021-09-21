@@ -16,4 +16,11 @@ lhs = [[1, 0, 0],
        [1, 0.15, 0.045]
        ]
 #'min' 'max'
-solution, objetivo =lp.ILP(funcionObjetivo, lhs, rhs,'', 'max')#Que sea lineal '' que sea entera 'Integer'
+solution, objetivo =lp.ILP(funcionObjetivo, lhs, rhs,'', 'max')
+#Que sea lineal '' que sea entera 'Integer'
+import matplotlib as plt 
+x=[2,4]
+y=[4,8]
+
+plt.plot(x,y)
+plt.show()
